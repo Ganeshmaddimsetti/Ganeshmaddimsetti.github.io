@@ -2,7 +2,7 @@
 
   {"data": [
    {
-    "Sno": 1,
+    "ID": 1,
     "Name": "Jimmy",
     "Contact": "Julian",
     "Mobile": "25465899",
@@ -16,7 +16,7 @@
    } ,
 
    {
-    "Sno": 2,
+    "ID": 2,
     "Name": "Stuart",
     "Contact": "Andrew",
     "Mobile": "6856230123",
@@ -29,7 +29,7 @@
 
    },
    {
-    "Sno": 3,
+    "ID": 3,
     "Name": "Jack",
     "Contact": "Benson",
     "Mobile": "8956230123",
@@ -42,7 +42,7 @@
 
    },
    {
-    "Sno": 4,
+    "ID": 4,
     "Name": "KonicaRoy",
     "Contact": "Thamos",
     "Mobile": "7756230123",

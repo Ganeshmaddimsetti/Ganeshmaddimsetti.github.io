@@ -427,7 +427,7 @@ var CustomerDetailsComponent = /** @class */ (function () {
             ajax: 'assets/customer.json',
             columns: [{
                     title: 'Sno',
-                    data: 'Sno'
+                    data: 'ID'
                 }, {
                     title: 'Name',
                     data: 'Name'
@@ -554,7 +554,7 @@ var OrderDetailsComponent = /** @class */ (function () {
             ajax: 'assets/order.json',
             columns: [{
                     title: 'Sno',
-                    data: 'Sno',
+                    data: 'ID',
                 }, {
                     title: 'Customer Name',
                     data: 'CustomerName'
